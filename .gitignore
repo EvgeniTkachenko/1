@@ -23,7 +23,7 @@ bin/
 /.nb-gradle/
 /.idea
 /out
-*.iml
+untitled.iml
 ### VS Code ###
 .vscode/
 
